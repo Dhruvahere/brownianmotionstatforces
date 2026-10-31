@@ -3,3 +3,5 @@ Brownian Dynamics is a type of simulation based on the equation discovered by Al
 Diffusion Generative Models learn a score function that is a log density function. This log density function is also the same as the negative gradient of a potential, which constitutes the forces that make up a simulation of some molecule. 
 
 So naturally the question is, if I use the log density function of a diffusion model in Brownian dynamics, how different are my outputs and can we predict shapes? 
+
+Unfortunately, I did not have time to make a 3D Engine, because that would involve GPUs and not everyone has huge GPUs. Nor can I host a GPU Server for everyone. So, instead... have fun with our favourite molecule ever that governs life on earth: WATER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
